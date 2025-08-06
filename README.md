@@ -10,8 +10,5 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MontassarSN&theme=radical
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MontassarSN&theme=radical)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MontassarSN&theme=radical&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
