@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**MontassarSN/MontassarSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![MontassarSN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MontassarSN&show_icons=true&theme=radical&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MontassarSN&layout=compact&theme=radical&hide=html)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MontassarSN&theme=radical
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MontassarSN&theme=radical&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
