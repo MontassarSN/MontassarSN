@@ -64,26 +64,4 @@
   <img src="https://streak-stats.demolab.com?user=MontassarSN&theme=radical&hide_border=true" />
 </p>
 
----
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**InformaLink**](https://github.com/MontassarSN) | Digital reputation & income verification platform for informal workers | Next.js, Supabase, TanStack Query |
-| [**Sfari-Jouets**](https://github.com/MontassarSN) | Educational toy e-commerce with sales & stock analytics dashboard | Next.js, TypeScript |
-| [**Dar-Iwan**](https://github.com/MontassarSN) | Online bookstore with analytics-driven inventory management | Next.js, Supabase |
-
----
-
-### 📜 Certifications
-
-- ☁️ AZ-900: Microsoft Azure Fundamentals
-- 📊 DP-900: Microsoft Azure Data Fundamentals
-- 🤝 Negotiation Associate — NGstudy
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MontassarSN&color=ff4d6d&style=flat-square" alt="Profile views" />
-</p>
