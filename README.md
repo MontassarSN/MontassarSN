@@ -55,10 +55,18 @@
 
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MontassarSN&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MontassarSN&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MontassarSN&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MontassarSN&theme=radical" />
+</p>
 
