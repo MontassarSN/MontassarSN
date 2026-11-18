@@ -21,7 +21,7 @@
 
 ### 🧠 About Me
 
-- 🏗️ Co-Founder & Software Developer at **Evowave** — shipped 5+ e-commerce & SaaS platforms
+- 🏗️ Co-Founder & Software Developer at **Evowave** — shipped 10+ e-commerce & SaaS platforms
 - 🤖 Built AI-integrated production systems: demand forecasting, analytics dashboards, ML pipelines
 - 📊 Passionate about turning raw data into product decisions
 - 🎓 BSc Big Data Analytics — ISAMM University, Highest Honors
